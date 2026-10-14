@@ -1,3 +1,5 @@
+> **About this copy.** This is a 2020 snapshot of the Great Expectations dbt + Airflow tutorial, written by the Great Expectations team (Eugene Mandel, Sam Bail and others). My contribution was the Docker Compose setup on the [`new-dockerize-setup`](../../tree/new-dockerize-setup) branch, and the same Dockerfile and docker-compose.yml are still used in [fivetran/gx_tutorials](https://github.com/fivetran/gx_tutorials/tree/main/gx_dbt_airflow_tutorial). Archived and kept for the forks that depend on it.
+
 # Great Expectations Pipeline Tutorial
 
 The purpose of this example is to show how [Great Expectations](https://greatexpectations.io) can protect a data pipeline from bad data and code bugs.
